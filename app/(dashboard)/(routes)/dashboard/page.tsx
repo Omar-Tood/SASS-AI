@@ -1,10 +1,8 @@
-const DashboardPage =() => {
-  return (
-        
-    // <Button>Click me</Button>
-    <p>Dashboard Page (Proctected)</p>
 
+const page = () => {
+  return (
+    <p>Dashboard Page  (Proctected)</p>
   )
 }
 
-export default DashboardPage;
+export default page
