@@ -1,6 +1,4 @@
-
-
-const   DashboardPage =() => {
+const DashboardPage =() => {
   return (
         
     // <Button>Click me</Button>
